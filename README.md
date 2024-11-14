@@ -12,7 +12,7 @@ em seguida selecionando o idioma Português, e por último formando a frase na
 qual a Ia iria reproduzir.
 
 ## 🚀 Resultados
-Eo resultado foi esse.
+E o resultado foi esse.
 
 https://studio.d-id.com/share?id=5e88bce4599cb19c4f99ca23220e84b1&utm_source=copy
 
